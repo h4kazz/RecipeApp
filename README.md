@@ -44,4 +44,4 @@ mvn test
 | `PUT` | `/api/recipes/{id}` | Savininkas |
 | `DELETE` | `/api/recipes/{id}` | Savininkas arba ADMIN |
 
-`/api/recipes` query parametrai: `categoryName`, `userId` (ADMIN only), `sort`, `page`, `size`.
+`/api/recipes` query parametrai: `categoryName`, `userId`, `sort`, `page`, `size`.
